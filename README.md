@@ -9,8 +9,13 @@
 
 ## Project Structure
 
-resume-website/
+html-portfolio/
 ├─ index.html
+├─ assets
+   ├─ setup.png
+   └─ deploy.png
 └─ README.md
 
-![alt text](image.png)
+![alt text](./assets/setup.png)
+
+![alt text](./assets/deploy.png)
